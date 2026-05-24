@@ -1,2 +1,0 @@
-javaproject.Main
-Project.Main
